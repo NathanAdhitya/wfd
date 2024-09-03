@@ -55,6 +55,6 @@
         </div>
     </div>
     <div class="px-4 mx-auto grid max-w-screen-xl text-gray-800 dark:text-gray-200">
-        <a href="#" class="block font-medium">Find Outlets ></a>
+        <a href="https://maps.google.com" class="block font-medium">Find Outlets ></a>
     </div>
 </section>
