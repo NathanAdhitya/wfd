@@ -5,7 +5,7 @@
     <figcaption class="flex justify-center items-center space-x-3">
         {{ $image }}
         <div class="space-y-0.5 font-medium dark:text-white text-left">
-            <div>{{ $attributes->get('user-name') }}</div>
+            <div>{{ $attributes->get('author-name') }}</div>
             <div class="text-sm font-light text-gray-500 dark:text-gray-400">{{ $attributes->get('testimonial-source') }}</div>
         </div>
     </figcaption>
